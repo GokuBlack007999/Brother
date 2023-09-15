@@ -1504,9 +1504,9 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed()
             let latensie = speed() - timestampe
             GODezy = `╭─❖
-│ Hi 👋 
-╰┬❖  ${pushname} 
-╭┤✑  ${GODytimewisher} 😄
+│ BAKA 🫠 
+╰┬💥  ${pushname} 
+╭┤💥  ${GODytimewisher} 🫠
 │╰────────────┈ ⳹
 │
 ╰─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 ╮
